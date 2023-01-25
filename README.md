@@ -3,6 +3,7 @@
 
 The app uses the Clarifai API to detect faces on photo's. The data collected from the API helps to create a frame around each face.
 This project is the final exercice of the Web Developer course from Zero to Mastery. 
+The repository "Face recognition" contains the Front-End, the one called "Face recognition API" contains the Back-End.
 
 
 ## Demo
