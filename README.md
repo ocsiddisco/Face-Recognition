@@ -14,6 +14,7 @@ How to use the app:
 1) Register or login in if you are already registered.
 2) Past the URL of a jpg image into the form.
 3) Click detect.
+
 The frame(s) is/are now visible!
 
 ## Screenshots
