@@ -1,71 +1,59 @@
-# Getting Started with Create React App
+# FACE RECOGNITION 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+The app uses the Clarifai API to detect faces on photo's. The data collected from the API helps to create a frame around each face.
+This project is the final exercice of the Web Developer course from Zero to Mastery. 
 
-In the project directory, you can run:
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://face-recognition-front-mm4d.onrender.com/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+How to use the app:
+1) Register or login in if you are already registered.
+2) Past the URL of a jpg image into the form.
+3) Click detect.
+The frame(s) is/are now visible!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+![](images/project1)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](images/project2)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ou 
 
-### `npm run eject`
+<img src="image/project1.png">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="image/project2.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Tech Stack
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Client:** React, Tachyons
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Server:** Node, Express, Postman
 
-### Code Splitting
+**Database:** PostgreSQL, PgAdmin
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Deployement:** Render
 
-### Analyzing the Bundle Size
+## Lessons Learned
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Because I followed a tutorial to build this project, we could believe it was easy. Well it was easier than without tutorial, but easy? Nop!
 
-### Making a Progressive Web App
+First of all, as this is the last project of the course, it is on a very different level than the other exercices in the course. While the other exercices were 'doable', this project pushed me to discover new tools as Node, database, hidding password using bcrypt, or deploy on internet.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The tutorial is 5 years old now, and several libraries used are now depreciated. It was not a simple "code along", this project asks me a lot of research on my own along the way to get it done.
 
-### Advanced Configuration
+## Related
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ - [Zero To mastery](https://zerotomastery.io/)
+ - [Matteo Bruni](https://github.com/matteobruni/tsparticles/blob/main/components/react/README.md)
+ - [Clarifai](https://github.com/Clarifai/clarifai-javascript)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Face-Recognition
