@@ -18,13 +18,6 @@ The frame(s) is/are now visible!
 
 ## Screenshots
 
-![](images/project1)
-
-![](images/project2)
-
-
-ou 
-
 <img src="images/project1.png">
 
 
