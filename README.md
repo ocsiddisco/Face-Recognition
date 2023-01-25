@@ -25,10 +25,10 @@ The frame(s) is/are now visible!
 
 ou 
 
-<img src="image/project1.png">
+<img src="images/project1.png">
 
 
-<img src="image/project2.png">
+<img src="images/project2.png">
 
 
 
