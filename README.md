@@ -1,4 +1,4 @@
-# FACE RECOGNITION 
+<h1 align="center">FACE RECOGNITION </h1>
 
 
 The app uses the Clarifai API to detect faces on photo's. The data collected from the API helps to create a frame around each face.
@@ -33,7 +33,7 @@ The frame(s) is/are now visible!
 
 **Server:** Node, Express, Postman
 
-**Database:** PostgreSQL, PgAdmin
+**Database:** PostgreSQL, PgAdmin, AWS RDS
 
 **Deployement:** Render
 
