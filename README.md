@@ -18,13 +18,10 @@ How to use the app:
 
 The frame(s) is/are now visible!
 
-## Screenshots
-
-<img src="images/project1.png">
+## Take a peek
 
 
-<img src="images/project2.png">
-
+![smartbrain](https://github.com/ocsiddisco/Face-Recognition/assets/114222588/37dfdabd-0c10-4ba8-b7a2-c4391272bbd3)
 
 
 ## Tech Stack
